@@ -13,6 +13,17 @@ The Supply Chain team decided to use a standard approach to measure the service 
 ### ‣ Processed Data 
 [Click Here](https://github.com/Saquibtechlotraining/Atliq_Supply_Chain_Management_Project/tree/main/Processed_Data)
 
-### Data Cleaning and Data Preprocessing
+### ‣ Data Cleaning and Data Preprocessing
 [Click Here](https://github.com/Saquibtechlotraining/Atliq_Supply_Chain_Management_Project/blob/main/Data_Import_Cleaning_Preprocessing.sql)
+
+## Insights & Recommendations
+
+![In-Depth Report on FMCG Atliq Supply Chain Management_page-0001](https://github.com/Saquibtechlotraining/Atliq_Supply_Chain_Management_Project/assets/91885135/dd224d50-c90f-4929-b337-f44c5f57d622)
+
+![In-Depth Report on FMCG Atliq Supply Chain Management_page-0002](https://github.com/Saquibtechlotraining/Atliq_Supply_Chain_Management_Project/assets/91885135/3070257d-2da0-45c0-bc03-42504ca2357b)
+
+![In-Depth Report on FMCG Atliq Supply Chain Management_page-0003](https://github.com/Saquibtechlotraining/Atliq_Supply_Chain_Management_Project/assets/91885135/4934f653-d4c7-425a-bb94-1ff957c395ff)
+
+![In-Depth Report on FMCG Atliq Supply Chain Management_page-0004](https://github.com/Saquibtechlotraining/Atliq_Supply_Chain_Management_Project/assets/91885135/6f13a7ac-e253-4cbd-a1d1-5af7cdae83dc)
+
 
