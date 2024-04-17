@@ -1,4 +1,6 @@
-# Atliq Supply Chain Management Project
+
+![download](https://github.com/Saquibtechlotraining/Atliq_Supply_Chain_Management_Project/assets/91885135/259211d3-8914-4739-96a5-d2c9253e9e54)
+
 
 ## ‣ Problem Statement
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
