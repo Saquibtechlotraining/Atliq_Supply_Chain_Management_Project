@@ -9,7 +9,9 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 
 The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders daily basis against the target service level set for each customer.
 
-![scm-plan](https://github.com/Saquibtechlotraining/Atliq_Supply_Chain_Management_Project/assets/91885135/360850d6-b5bb-461e-b79b-bedb61436af0)
+
+![C2 Stakeholder Chat_Business Review Meeting pdf_page-0001-min](https://github.com/Saquibtechlotraining/Atliq_Supply_Chain_Management_Project/assets/91885135/d3c1cc65-e7e9-4ceb-9b0c-df4a8160f462)
+
 
 ## ‣ Original Data
 [Click Here](https://github.com/Saquibtechlotraining/Atliq_Supply_Chain_Management_Project/tree/main/Original_Data)
